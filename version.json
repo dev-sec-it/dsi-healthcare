@@ -1,0 +1,16 @@
+{
+  "name": "DSI Care",
+  "version": "2.0.0",
+  "releaseDate": "2026-10-30",
+  "publisher": "DEV SEC IT",
+  "repository": "https://github.com/dev-sec-it/dsi-healthcare",
+  "downloadUrl": "https://github.com/dev-sec-it/dsi-healthcare/releases/latest",
+  "mandatory": false,
+  "changelog": [
+    "Native Rust desktop client with secure zero-leak engine",
+    "Direct authentication gateway with auto-session restoration",
+    "Windows desktop software theme with live StatusStrip and interactive clock",
+    "Complete clinic management, electronic prescriptions, and OPD flow"
+  ]
+}
+
